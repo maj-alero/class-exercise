@@ -1,0 +1,11 @@
+h1{
+    color: mediumslateblue;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: chocolate;
+}
+h1:hover{
+    color: cadetblue;
+}
